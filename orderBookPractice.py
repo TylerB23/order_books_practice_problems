@@ -1,4 +1,3 @@
-from inputimeout import inputimeout
 from time import sleep
 from pprint import pprint
 import numpy as np
